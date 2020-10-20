@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/paulohp/slush-nodewebkit",
   "dependencies": {
-    "gulp": "^3.6.2",
+    "gulp": "^4.0.0",
     "gulp-conflict": "^0.1.1",
     "gulp-install": "^0.1.5",
     "gulp-rename": "^1.2.0",
